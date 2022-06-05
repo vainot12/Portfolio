@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+h1 {
+    color: lightskyblue;
+}
+
+a {
+
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+nav a {
+    color: lightskyblue;
+    font-weight: 700;
+}
+
+footer {
+    background-color: lightslategrey;
+    color: white;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+html {
+    background-image: linear-gradient(black, white);
+}
